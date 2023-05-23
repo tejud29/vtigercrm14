@@ -21,3 +21,6 @@ public class doubleclick {
 	}
 
 }
+driver().window().maximise()
+driver().window().minimise()
+driver().window().minimise()
